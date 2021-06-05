@@ -1,2 +1,2 @@
 # TestIBMdatascience
-Just a test
+Just a test for my data science classes
